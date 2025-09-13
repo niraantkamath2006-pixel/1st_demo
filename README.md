@@ -1,2 +1,2 @@
 # 1st_demo
-first demo repository of git and github
+first demo repository of git and github.
